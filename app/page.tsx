@@ -1,2 +1,1 @@
-"use client"
-export { Main as default } from '@/pages/main';
+export { Main as default } from "@/pages/main";
