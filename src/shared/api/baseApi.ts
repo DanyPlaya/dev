@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export const baseApi  = axios.create({
-    baseURL: ''
+    baseURL: process.env.NEXT_PUBLIC_BASE_API
 })
